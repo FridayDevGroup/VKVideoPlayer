@@ -42,8 +42,4 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.dependency 'DTCoreText', '~> 1.6.11'
-  s.dependency 'CocoaLumberjack/Swift'
-  s.dependency 'VKFoundation'
-
 end
