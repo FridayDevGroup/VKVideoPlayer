@@ -41,5 +41,7 @@ Pod::Spec.new do |s|
   s.frameworks = 'QuartzCore', 'MediaPlayer', 'AVFoundation'
 
   s.requires_arc = true
+  
+  s.dependency 'VKFoundation'
 
 end
