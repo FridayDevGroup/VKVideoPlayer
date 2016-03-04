@@ -1,8 +1,5 @@
 platform :ios, '8.0'
-pod 'DTCoreText', '~> 1.6.11'
 pod 'AFNetworking', '1.3.3'
-pod 'CocoaLumberjack/Swift'
-pod 'VKFoundation'
 pod 'CocoaHTTPServer'
 
 target 'VKVideoPlayerTests' do
